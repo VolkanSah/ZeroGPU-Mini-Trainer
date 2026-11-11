@@ -1,7 +1,7 @@
 # ZeroGPU-Mini-Trainer
 ###### adapter_model.safetensors
 
-5 min Day ( 150 min month)  to 40 min / 1.200 min month to train a  smolLM2?  On a blackwell rtx 6000 for free or 9 $ month? Why not? 
+5 min Day ( 150 min month)  to 40 min / 1.200 min month to train a  smolLM2?  On a blackwell rtx 6000 PRO for free or 9 $ month? Why not? 
 
     "SmolLM2-135M-Instruct",
     "/SmolLM2-360M-Instruct",
