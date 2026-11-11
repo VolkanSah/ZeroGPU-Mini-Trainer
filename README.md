@@ -8,7 +8,7 @@
     "/SmolLM2-1.7B-Instruct",
 
 are perfect as routers for your next big project... in my projects soon, thats only for testing and thats the result! 
-Worksflow: 2x 30  sec i train my 135 M with most all nmap instances, socat + trash,  with own anti dumpscore against trash (hoply!) rate from 4.23 -> 1.32 ( see my smallm concept in my repos! how i colect traning data and score it.
+Worksflow: 2x  300 sec i train my 135 M with most all nmap instances, socat + trash,  with own anti dumpscore against trash (hoply!) rate from 4.23 -> 1.32 ( see my smallm concept in my repos! how i colect traning data and score it.
 
 
 https://huggingface.co/spaces/Alibrown/ZeroGPU-Mini-Trainer
